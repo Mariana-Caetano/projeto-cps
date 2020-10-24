@@ -10,3 +10,8 @@ Final project for the "Web Development" course powered by Univesp
 <h4> 
 	🚧  Under Construction...  🚧
 </h4>
+
+<h1>Technologies</h1>
+<p>🛠 The following technologies were used on the project: </p>
+- [HTML 5]
+- [W3.CSS FRAMEWORK]
