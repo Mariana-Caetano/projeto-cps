@@ -1,6 +1,7 @@
 # projeto-cps
 
 Final project for the "Web Development" course powered by Univesp
+You can check here: https://projeto-univesp.netlify.app/
 
 <h1>Description</h1>
 </h1>
