@@ -13,5 +13,5 @@ Final project for the "Web Development" course powered by Univesp
 
 <h1>Technologies</h1>
 <p>🛠 The following technologies were used on the project: </p>
-• HTML 5
+• HTML 5 <br>
 • W3.CSS FRAMEWORK
